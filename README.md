@@ -2,11 +2,11 @@
 <p align="center">
   <img src="https://i.ibb.co/HdYV0hJ/Anonymous-Wallpaper-1.jpg" alt="animated" width="300" height="300" />
 </p>
-  <h2 align="center">• 💃 𝙌𝙐𝙀𝙀𝙉 𝙀𝙇𝙄𝙎𝘼 𝘽𝙊𝙏 💃 •<br></h2>
+  <h2 align="center">• 👀 𝗦𝗔𝗔𝗝𝗜𝗧𝗛 𝗕𝗢𝗧 👀 •<br></h2>
   
   
 <h6 align= "center"> 
-Queen Elisa Whatsapp bot made by dark maker base on cheems can you use queen elisa with amazing fetures
+Saajith bot Whatsapp bot made by dark maker base on cheems can you use queen elisa with amazing fetures
 </h6>
 
 ## 
@@ -19,18 +19,18 @@ Queen Elisa Whatsapp bot made by dark maker base on cheems can you use queen eli
 
 
 
-`DEPLOY QUEEN ELISA`
+`DEPLOY SAAJITH BOT`
  
-**1.** _Fork Queen Elisa Repository._
+**1.** _Fork Saajith bot Repository._
 
 <p align="left">
-<a href="https://github.com/DarkMakerofc/Queen-Elisa-MD-V2/fork"><img align="center" src="https://telegra.ph/file/3514997e86c4bb12d8f67.png" alt="Fork and deploy" height="35" width="155" /></a>
+<a href="https://github.com/shamila88/shamila88/fork"><img align="center" src="https://i.ibb.co/HdYV0hJ/Anonymous-Wallpaper-1.jpg" alt="Fork and deploy" height="35" width="155" /></a>
 
 
 **2** _Scan Qr code using your whatsapp (install)._
 
 
-### [`SCAN QR CODE`](https://replit.com/@MRNima/QUEEN-ELISA-V2-MD-WHATSAPP-SCANER?v=1?outputonly=1&lite=1#index.js)
+### [`SCAN QR CODE`](https://replit.com/@MRNima/shamila88-WHATSAPP-SCANER?v=1?outputonly=1&lite=1#index.js)
 
 
 
@@ -39,7 +39,7 @@ Queen Elisa Whatsapp bot made by dark maker base on cheems can you use queen eli
 
 **4**  _[Make your deploy link `Video`]() and deploy your bot using link Fill heroku_
 
-     https://heroku.com/deploy?template=
+     https://heroku.com/deploy?template=https://github.com/Shamila88/shamila88
 
 ##  
 ##  
@@ -52,9 +52,9 @@ Queen Elisa Whatsapp bot made by dark maker base on cheems can you use queen eli
 ##
 ## 
 
-#### 『 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 𝙿𝚄𝙱𝙻𝙸𝙲 𝙶𝚁𝙾𝚄𝙿 』
+#### 『 𝚂𝙰𝙰𝙹𝙸𝚃𝙷 𝙱𝙾𝚃 𝙿𝚄𝙱𝙻𝙸𝙲 𝙶𝚁𝙾𝚄𝙿 』
 [`𝙹𝙾𝙸𝙽 𝙽𝙾𝚆`]()
 
 #### 『 𝙷𝙾𝚆 𝚃𝙾 𝙼𝙰𝙺𝙴 𝙱𝙾𝚃 [`𝚆𝙰𝚃𝙲𝙷 𝚅𝙸𝙳𝙴𝙾`]() 』
 
-`THANKS FRO USING QUEEN ELISA 💞`
+`THANKS FRO USING SAAJITH BOT 💞`

@@ -12,7 +12,7 @@ Queen Elisa Whatsapp bot made by dark maker base on cheems can you use queen eli
 ## 
 
 <p align="left">
-<a href="http://www.queenelisa.42web.io"><img align="center" src="https://telegra.ph/file/8b7c4a9bbaae67b1b2e0e.png" alt="VISIT QUEEN ELISA WEBSITE" height="35" width="150" /></a>
+<a href="http://www.queenelisa.42web.io"><img align="center" src="https://i.ibb.co/HdYV0hJ/Anonymous-Wallpaper-1.jpg" alt="VISIT QUEEN ELISA WEBSITE" height="35" width="150" /></a>
 </p align="left">
 
 ## 

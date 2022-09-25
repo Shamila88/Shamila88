@@ -1,0 +1,232 @@
+{
+  "name": "QUEEN ELISA BOT 2.2.0 V",
+  "description": "whatsapp md bot build with nodejs",
+  "repository": "https://github.com/Shamila88/Queen-Elisa-MD-V2",
+  "logo": "https://i.ibb.co/ZWctf3M/Queen-Elisa-Git-Lo-Go.jpg",
+  "keywords": ["nodejs", "simple whatsapp bot","whatsapp"],
+
+  "env": {
+
+"APP_NAME": {
+  "description": "HEROKU APP NAME",
+  "required": true
+},
+
+"HEROKU_API": {
+  "description": "HEROKU API KEY",
+  "required": true
+},
+
+"OWNER_NUMBER" :{
+  "description" : "OWNER NUMBER",
+  "required" : false,
+  "value" :"94715166712"
+  },
+
+ "ALIVE_MESSAGE" :{
+  "description" : "Alive මැසේජ් එක ටයිප් කරන්න.",
+  "required" : false,
+"value" : "*𝗛𝗜 𝗜 𝗔𝗠 𝗔𝗟𝗜𝗩𝗘👋*"
+  },
+
+"CAPTION" :{
+  "description" : "මගේ නම අයින් කරලා ඔයාගෙ නම දාගන්න.",
+  "requred" : false,
+  "value" : "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰"
+  },
+  
+  "SEND_WELCOME_MASSAGE" :{
+  "description" : "WELCOME මැසේජ් එකයි GOOD BYE මැසේජ් එකයි ඔන් කරගන්න [ true / false]",
+  "required" : true,
+    "value" : "true"
+  },
+
+  "LANGUAGE" :{
+  "descrption" : "ඔයාගෙ LANGUAGE එක තෝරගන්න [ SI - sinhala / EN - english ]",
+  "requred" : true,
+  "value" : "SI"
+  },
+
+  "ANTI_LINK" :{
+  "description" : "GROUP එකට දාන වෙනත් GROUP ලින්ක් අයින් කරන්න ඔන් කරගන්න. [ true / false ]",
+  "requred" : false,
+  "value" : "false"
+  },
+
+  "BOT_NAME" :{
+  "description" : "ඔයාගෙ බොට්ගෙ නම",
+  "requred" : false,
+  "value" :"𝗦𝗔𝗔𝗝𝗜𝗧𝗛 𝗕𝗢𝗧"
+  },
+
+  "OWNER_NAME" :{
+  "description" : "ඔයාගෙ නම",
+  "requred" : false,
+  "value" :"𝚂𝙰𝙰𝙹𝙸𝚃𝙷 𝙸𝙼𝙰𝙽𝙳𝙴𝙴𝙽"
+  },
+
+  "STICKER_PACK_NAME" :{
+  "description" : "STICKER එකේ දාන්න ඕන නම",
+  "requred" : true,
+  "value" :"𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝙱𝚈 𝚂𝙰𝙰𝙹𝙸𝚃𝙷 𝙱𝙾𝚃"
+  },
+
+  "STICKER_AUTHOR_NAME" :{
+  "description" : "STICKER AUTHOR NAME",
+  "requred" : true,
+  "value" :"𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝙱𝚈 𝚂𝙰𝙰𝙹𝙸𝚃𝙷 𝙱𝙾𝚃"
+  },
+
+  "ALIVE_LOGO" :{
+  "description" : "YOUR BOT ALIVE LOGO GET YOUR LINK UPLOAD imgbb.com WEB SITE ",
+  "requred" : true,
+  "value" :"https://telegra.ph/file/1a2dee71baa975091620d.jpg"
+  },
+
+  "WELCOME_MSG" :{
+  "description" : "WELCOME මැසේජ් එක ටයිප් කරන්න.",
+  "required" : false,
+    "value" :"𝙷𝙸 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙶𝚁𝙾𝚄𝙿👋"
+  },
+
+  "GOODBYE_MSG" :{
+  "description" : "GOODBYE මැසේජ් එක ටයිප් කරන්න.",
+  "required" : false,
+    "value" :"true"
+  },
+
+  "SUCCESS_MSG" :{
+  "description" : "SUCCESS MASSAGE",
+  "requred" : true,
+  "value" :"YOUR WORK DONE !"
+  },
+
+  "ADMIN_MSG" :{
+  "description" : "ADMIN ONLY MASSAGE",
+  "requred" : true,
+  "value" :"This command is admin only command😢"
+  },
+
+  "WAIT_MSG" :{
+  "description" : "YOUR BOT WAIT MASSAGE",
+  "requred" : true,
+  "value" :"_ඉන්නකො චුට්ටක්..._"
+  },
+
+  "EXTRA_API" :{
+  "description" : "Api get from  https://violetics.pw this web site fro fb downloader 2 and ytshort downloader",
+  "required" : true,
+  "value" :"Api get on https://violetics.pw login and put it no need now"
+  },
+
+  "PREFA" :{
+  "description" : "NO NEED CHANGE IT",
+  "requred" : true,
+  "value" :"['#','!','/','']"
+  },
+
+  "AUTO_BIO" :{
+  "description" : "if you want show time and date on your whatsapp bio",
+  "required" : true,
+  "value" :"on"
+  },
+
+  "INBOX_BLOCK" :{
+  "description" : "BLOCK INBOX USERS [ on / off ]",
+  "requred" : true,
+  "value" :"off"
+  },
+
+  "AUTO_REACT" :{
+  "description" : "AUTO REACT SEND [ true / false ]",
+  "requred" : true,
+  "value" :"true"
+  },
+
+"ANTI_BADWORD" :{
+  "description" : "REMOVE BAD WORD SENDERS [ true / false ]",
+  "requred" : true,
+  "value" :"true"
+  },
+
+"BAD_KICK_MASSAGE" :{
+  "description" : "BAD KICK MASSAGE",
+  "requred" : false,
+  "value" :"bye bye"
+  },
+
+"DISPLAY_BUTTON_1" :{
+  "description" : "ENTER YOUR URL BUTTON 1 TEXT",
+  "requred" : false,
+  "value" :"ɢɪᴛʜᴜʙ"
+  },
+
+"DISPLAY_BUTTON_2" :{
+  "description" : "ENTER YOUR URL BUTTON 2 TEXT",
+  "requred" : false,
+  "value" :"ʏᴏᴜᴛᴜʙᴇ"
+  },
+
+"BUTTON_1_URL" :{
+  "description" : "ENTER YOUR URL BUTTON 1 URL",
+  "requred" : false,
+  "value" :"github.com/darkmakerofc"
+  },
+
+"BUTTON_2_URL" :{
+  "description" : "ENTER YOUR URL BUTTON 2 URL",
+  "requred" : false,
+  "value" :"youtube.com/MRNIMAOFC"
+  },
+
+"INBOX_BLOCK_MSG" :{
+  "description" : "INBOX USER BLOCK MASSAGE",
+  "required" : true,
+  "value" :"*INBOX BLOCK ACTIVATE BY BOT OWNER*"
+  },
+"BLOCK_CALLERS" :{
+  "description" : "INBOX USER BLOCK CALLS",
+  "required" : true,
+  "value" :"false"
+  },
+ "SONG_DOWNLOAD" :{
+  "description" : "SONG DOWNLOADING MASSAGE",
+  "required" : true,
+  "value" :"*🔁 සින්දුව හොයන ගමන්*"
+  },
+ "SONG_UPLOAD" :{
+  "description" : "SONG UPLOADING MASSAGE",
+  "required" : true,
+  "value" :"*📤 අප්ලෝඩ් කරන ගමන්*"
+  },
+ "VOICE_REPLY" :{
+  "description" : "REPLY GIRL VOICE",
+  "required" : true,
+  "value" :"true"
+  },
+   "NUMBER_212_BLOCK" :{
+  "description" : "BLOCK +212 INBOX MASSAGE SENDERS",
+  "required" : true,
+  "value" :"true"
+  }
+  
+  },
+
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}

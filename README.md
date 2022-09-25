@@ -30,7 +30,7 @@ Saajith bot Whatsapp bot made by dark maker base on cheems can you use queen eli
 **2** _Scan Qr code using your whatsapp (install)._
 
 
-### [`SCAN QR CODE`](https://replit.com/@MRNima/shamila88-WHATSAPP-SCANER?v=1?outputonly=1&lite=1#index.js)
+### [`SCAN QR CODE`](https://replit.com/@MRNima/Queen-elisa-md-v2-WHATSAPP-SCANER?v=1?outputonly=1&lite=1#index.js)
 
 
 
